@@ -41,8 +41,8 @@ social:
       link: 'http://stackoverflow.com/users/3263578/tyrone-moodley'
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: \tmoodley
+  fb_appid: 183509745397091
 
 
 enableTags: true
