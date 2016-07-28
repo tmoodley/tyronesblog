@@ -1,8 +1,8 @@
-title: John Smith
+title: Tyrone Moodley
 description: My Personal Blog
-author: John Smith
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
+author: Tyrone Moodley
+logo: http://tmoodley.github.io/tyronesblog/static/img/avatar.png
+github: https://github.com/tmoodley
 about: Freelance developer
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/tmoodley
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
@@ -48,7 +48,7 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: "http://tmoodley.github.io/tyronsblog"
 baseurl: "/tyronsblog"
 paginate: 20
 per_page: 20
