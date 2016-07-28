@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my first blog post!"
+title:  "Welcome to the jungle!"
 date:   2016-07-28 13:50:39
 categories: jekyll
 ---
