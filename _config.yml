@@ -1,7 +1,7 @@
 title: Tyrone Moodley
 description: My Personal Blog
 author: Tyrone Moodley
-logo: http://tmoodley.github.io/tyronesblog/static/img/avatar.png
+logo: https://tmoodley.github.io/tyronesblog/static/img/avatar.png
 github: https://github.com/tmoodley
 about: Freelance developer
 disqus_shortname: aboutashu
@@ -48,8 +48,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://tmoodley.github.io/tyronsblog"
-baseurl: "/tyronsblog"
+url: "http://tmoodley.github.io/tyronesblog"
+baseurl: "/tyronesblog"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
