@@ -3,8 +3,8 @@ description: My Personal Blog
 author: Tyrone Moodley
 logo: https://tmoodley.github.io/tyronesblog/static/img/avatar.png
 github: https://github.com/tmoodley
-about: Freelance developer
-disqus_shortname: aboutashu
+about: Fullstack Developer
+disqus_shortname: tmoodley
 google_analytics: UA-72862926-1
 urls:
     - text: Home
