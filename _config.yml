@@ -30,15 +30,15 @@ urls:
       
 social:
     - icon: fa-facebook
-      link: 'tyrone.moodley'
+      link: 'https://www.facebook.com/tyrone.moodley'
     - icon: fa-skype
       link: 'tyrone.moodley'
     - icon: fa-twitter
-      link: 'tmoodley'
+      link: 'https://twitter.com/tmoodley'
     - icon: fa-linkedin
-      link: 'in/tyronemoodley'
+      link: 'https://www.linkedin.com/in/tyronemoodley'
     - icon: fa-stack-exchange
-      link: 'tyrone-moodley'
+      link: 'http://stackoverflow.com/users/3263578/tyrone-moodley'
 
 share:
   twitter_username: \#
